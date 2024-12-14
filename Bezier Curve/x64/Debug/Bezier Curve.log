@@ -1,0 +1,15 @@
+﻿  Bezier Curve.cpp
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(551,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(585,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(585,32): warning C4244:         with
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(585,32): warning C4244:         [
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(585,32): warning C4244:             _Ty=GLfloat
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(585,32): warning C4244:         ]
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(586,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(586,32): warning C4244:         with
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(586,32): warning C4244:         [
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(586,32): warning C4244:             _Ty=GLfloat
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(586,32): warning C4244:         ]
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(623,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\source\repos\hello\Bezier Curve\Bezier Curve\Bezier Curve.cpp(623,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  Bezier Curve.vcxproj -> C:\Users\ASUS\source\repos\hello\Bezier Curve\x64\Debug\Bezier Curve.exe
